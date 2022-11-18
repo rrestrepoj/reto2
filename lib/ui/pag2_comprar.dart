@@ -25,7 +25,7 @@ class _pag2_comprarState extends State<pag2_comprar> {
                     Control.pro[index].precio.toString()),
                 trailing: Text(
                   Control.pro[index].cantidad.toString(),
-                  style: TextStyle(fontSize: 30),
+                  style: TextStyle(fontSize: 40),
                 ),
                 subtitle: Row(
                   children: [
